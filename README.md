@@ -7,6 +7,7 @@ Stream video with OpenCV from android IP Webcam
 - In the command line, type :
 
 $ g++ `pkg-config --cflags opencv` -o ipcamera ipcamera.cpp `pkg-config --libs opencv`
+
 $ ./ipcamera
 
   Voilà
